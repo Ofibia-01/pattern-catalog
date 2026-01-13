@@ -1,0 +1,21 @@
+{
+  "brand": "OFIBIA Pattern Studio",
+  "currency": "NGN",
+  "whatsapp": "https://wa.me/234XXXXXXXXXX",
+  "catalog": [
+    {
+      "id": "ankara001",
+      "name": "Ankara Wave",
+      "price": 7500,
+      "image": "https://images.unsplash.com/photo-1618354691318-c6c47a5a6b89",
+      "buy": "https://paystack.com/pay/ankara-wave"
+    },
+    {
+      "id": "adire002",
+      "name": "Luxury Adire",
+      "price": 10000,
+      "image": "https://images.unsplash.com/photo-1585386959984-a41552262cbb",
+      "buy": "https://paystack.com/pay/luxury-adire"
+    }
+  ]
+}
